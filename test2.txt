@@ -1,1 +1,1 @@
-This is to test the conflicts during merge.
+This is to file to test the conflicts during merge.
